@@ -1,5 +1,2 @@
-
 public void Student();
 public void Add();
-public void Edit();
-
