@@ -1,1 +1,2 @@
 public void Student();
+public void Add();
